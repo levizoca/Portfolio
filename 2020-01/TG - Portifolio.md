@@ -8,7 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos 
 ### Em 2020-1
 No meu primeiro semestre na Fatec, foi passado o PI (Projeto Integrador) onde a própria Fatec atuaria como uma empresa que apresentaria um problema e minha equipe deveria achar uma solução e trabalhar para desenvolvê-lo. Neste primeiro trabalho, minha equipe desenvolveu um aplicativo para dispositivos móveis que monitoraria a temperatura de uma sala a partir de um termômetro que estaria trabalhando junto a um NodeMCU, e a partir disso, o portador do aplicativo seria notificado sempre que mudanças ocorressem naquela sala, podendo sempre monitorar a temperatura e umidade do local.
 
-[GIT](https://www.google.com)
+[GIT](https://github.com/levizoca/hexagono-fatec)
 
 #### Tecnologias Utilizadas
 Firebase
