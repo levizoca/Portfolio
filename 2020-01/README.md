@@ -12,13 +12,13 @@ No meu primeiro semestre na Fatec, foi passado o PI (Projeto Integrador) onde a 
 [YouTube](https://www.youtube.com/watch?v=AYty7aQO1_A)
 
 <div align="center">
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/tela_inicial.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/login.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/tela_principal.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/menu.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/perfil_usuario.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/notificacao_dentro.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/notificacao_fora.png" width="400" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/main/2020-01/Imagens/tela_inicial.png" width="400" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/main/2020-01/Imagens/login.png" width="400" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/main/2020-01/Imagens/tela_principal.png" width="400" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/main/2020-01/Imagens/menu.png" width="400" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/main/2020-01/Imagens/perfil_usuario.png" width="400" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/main/2020-01/Imagens/notificacao_dentro.png" width="400" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/main/2020-01/Imagens/notificacao_fora.png" width="400" hspace="5"/>
 </div>
 
 #### Tecnologias Utilizadas
