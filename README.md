@@ -9,10 +9,10 @@
 <div align="center">
   <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/tela_inicial.png" width="200" hspace="5"/>
   <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/login.png" width="200" hspace="5"/>
-  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/tela_principal.png" width="200" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/tela_principal.png" width="200" hspace="5"/><br>
   <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/menu.png" width="200" hspace="5"/>
   <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/perfil_usuario.png" width="200" hspace="5"/>
-  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/notificacao_dentro.png" width="200" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/notificacao_dentro.png" width="200" hspace="5"/><br>
   <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/notificacao_fora.png" width="200" hspace="5"/>
 </div>
 
@@ -55,9 +55,6 @@ Colaboração - empatia e capacidade de adaptação as tarefas de cada integrant
 Comunicação - indispensável para o desenvolvimento e aperfeiçoamento do projeto.
 
 Proatividade - exploração dos dados recebidos, teste e validação de hipóteses.
-
-## Meus Principais Conhecimentos
-<p align="justify">Durante esse semestre fui introduzido a varias tecnologias onde as que eu mais utilizei foram o figma, Html, CSS e o javascript. Tais tecnologias eu obtive um conhecimento básico/intermediário para o desenvolvimento do projeto, completando alguns cursos que tornaram o desenvolvimento possível.</p>
 
 ## Contatos
 * [Github](https://github.com/levizoca)
