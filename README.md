@@ -17,25 +17,24 @@
 </div>
 
 #### Tecnologias Utilizadas
-Firebase
-<p align="justify">O Firebase é uma ferramenta de banco de dados não relacional que pode ser acessada na nuvem, é suportada pelas principais plataformas móveis como Android e iOS (ideal para este projeto), permite desenvolvimento em qualquer dispositivo, além de ser uma plataforma gratuita.</p>
+- Firebase
+<p align="justify"> O Firebase é uma ferramenta de banco de dados não relacional que pode ser acessada na nuvem, é suportada pelas principais plataformas móveis como Android e iOS (ideal para este projeto), permite desenvolvimento em qualquer dispositivo, além de ser uma plataforma gratuita.</p>
 
-Flutter
-<p align="justify">O Flutter, criado pela Google, é um framework que se utiliza da linguagem Dart e possui código aberto. As aplicações geradas com o Flutter conseguem acessar os recursos do dispositivo que estão sendo executadas com maior eficiência, sem ajuda de terceiros como bridges, tal funcionalidade levou o Flutter a se popularizar no cenário mobile.</p>
+- Flutter
+<p align="justify"> O Flutter, criado pela Google, é um framework que se utiliza da linguagem Dart e possui código aberto. As aplicações geradas com o Flutter conseguem acessar os recursos do dispositivo que estão sendo executadas com maior eficiência, sem ajuda de terceiros como bridges, tal funcionalidade levou o Flutter a se popularizar no cenário mobile.</p>
 
-NodeMCU
-<p align="justify">Quanto ao hardware, foi optado pela placa NodeMCU, muito utilizado na área de IoT principalmente em projetos menores que utilizam o chip ESP32, que permite conexão Wi-Fi com microcontroladores através de um SoC com o protocolo TCP/IP.</p>
+- NodeMCU
+<p align="justify"> Quanto ao hardware, foi optado pela placa NodeMCU, muito utilizado na área de IoT principalmente em projetos menores que utilizam o chip ESP32, que permite conexão Wi-Fi com microcontroladores através de um SoC com o protocolo TCP/IP.
+Apesar de ser mais poderoso que um Arduino, possui poucas GPIO (portas programáveis de entrada e saída de dados), possuindo apenas 4, sendo que 2 são dedicadas à comunicação serial. Ao todo, o dispositivo conta com:</p>
 
-<p align="justify">Apesar de ser mais poderoso que um Arduino, possui poucas GPIO (portas programáveis de entrada e saída de dados), possuindo apenas 4, sendo que 2 são dedicadas à comunicação serial. Ao todo, o dispositivo conta com:</p>
-
-Conversor Serial
-Regulador de Tensão
-Pinos para I2C
-SPI
+Conversor Serial<br>
+Regulador de Tensão<br>
+Pinos para I2C<br>
+SPI<br>
 Analógico
 
-OneSignal
-<p align="justify">O OneSignal é uma ferramenta web que oferece o envio de notificações push para dispositivos das principais plataformas atuais: Android e iOS. É um serviço inicialmente gratuito, mas que se o usuário precisar de mais algumas funcionalidades será necessário pagamento. As notificações podem ser enviadas somente a um segmento de usuários ou a todos. Também é possível programar o horário que a notificação será enviada (instantaneamente ou daqui a algumas horas, por exemplo). Há outras configurações, como ícones, imagens e prioridade. Além disso o OneSignal envia notificações e as exibe em três estados: com o app totalmente fechado, com o app minimizado e com o app aberto.</p>
+- OneSignal
+<p align="justify"> O OneSignal é uma ferramenta web que oferece o envio de notificações push para dispositivos das principais plataformas atuais: Android e iOS. É um serviço inicialmente gratuito, mas que se o usuário precisar de mais algumas funcionalidades será necessário pagamento. As notificações podem ser enviadas somente a um segmento de usuários ou a todos. Também é possível programar o horário que a notificação será enviada (instantaneamente ou daqui a algumas horas, por exemplo). Há outras configurações, como ícones, imagens e prioridade. Além disso o OneSignal envia notificações e as exibe em três estados: com o app totalmente fechado, com o app minimizado e com o app aberto.</p>
   
 
 #### Contribuições Pessoais
