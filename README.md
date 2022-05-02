@@ -1,24 +1,19 @@
-# Levi Alberto Motta Santos
-
-## Introdução
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Meu interesse por tecnologia vem desde a infância onde jogava videogame e ja mexia em computadores, com o passar do tempo comecei a mexer com hardware, montando meus proprios computadores e praticando manutenção. Após terminar o ensino médio, visando construir uma carreira em tal área, comecei os estudos na parte de programação na Fatec onde ja trabalhei em vários trabalhos que envolviam Python, C, Java, Javascript entre outras linguagens e tecnologias.
-
-## Meus Projetos
+## TempVerify
 
 ### Em 2020-1
 No meu primeiro semestre na Fatec, foi passado o PI (Projeto Integrador) onde a própria Fatec atuaria como uma empresa que apresentaria um problema e minha equipe deveria achar uma solução e trabalhar para desenvolvê-lo. Neste primeiro trabalho, minha equipe desenvolveu um aplicativo para dispositivos móveis que monitoraria a temperatura de uma sala a partir de um termômetro que estaria trabalhando junto a um NodeMCU, e a partir disso, o portador do aplicativo seria notificado sempre que mudanças ocorressem naquela sala, podendo sempre monitorar a temperatura e umidade do local.
 
-[GIT](https://github.com/levizoca/hexagono-fatec) <br>
-[YouTube](https://www.youtube.com/watch?v=AYty7aQO1_A)
+- [GIT](https://github.com/levizoca/hexagono-fatec) <br>
+- [YouTube](https://www.youtube.com/watch?v=AYty7aQO1_A)
 
 <div align="center">
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/tela_inicial.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/login.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/tela_principal.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/menu.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/perfil_usuario.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/notificacao_dentro.png" width="400" hspace="5"/>
-  <img src="https://github.com/cacauisadog/hexagono-fatec/blob/master/images/notificacao_fora.png" width="400" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/tela_inicial.png" width="200" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/login.png" width="200" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/tela_principal.png" width="200" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/menu.png" width="200" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/perfil_usuario.png" width="200" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/notificacao_dentro.png" width="200" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2020-01/Imagens/notificacao_fora.png" width="200" hspace="5"/>
 </div>
 
 #### Tecnologias Utilizadas
