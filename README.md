@@ -10,3 +10,5 @@ Após terminar o ensino médio, visando construir uma carreira em tal área, com
 
 ## Meus Projetos
 Abaixo estão listados os projetos desenvolvidos durante minha graduação na Fatec São José dos Campos, foram desenvolvidos um projeto por semestre.
+
+[TempVerify - 1º Semestre](https://github.com/levizoca/Portfolio/tree/2020-01)
