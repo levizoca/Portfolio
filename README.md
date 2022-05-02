@@ -1,12 +1,6 @@
-# Levi Alberto Motta Santos
-<img src="https://github.com/levizoca/Portfolio/blob/main/Imagens/avatar.jpg" width="200" hspace="5"/>
+## Em 2020-02
 
-* [Github](https://github.com/levizoca)
-* [LinkedIn](https://www.linkedin.com/in/levi-motta-5001a2173/)
+### IACIT Transportes
+<p align="justify">No meu segundo semestre na Fatec, foi passado o segundo projeto integrador onde a empresa parceira foi a IACIT. A empresa queria uma solução que melhorasse a autonomia e a comunicação entre os caminhoneiros e os clientes colaboradres. Neste  trabalho, minha equipe desenvolveu um sistema que permita a manutenção de dados pessoai, mantem o motorista informado sobre sua jornada, possibilita a emissão de alertas para os trabalhadores e gera relatórios diários e mensais.</p>
 
-## Introdução
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Meu interesse por tecnologia vem desde a infância onde jogava videogame e ja mexia em computadores, com o passar do tempo comecei a mexer com hardware, montando meus proprios computadores e praticando manutenção.
-Após terminar o ensino médio, visando construir uma carreira em tal área, comecei os estudos na parte de programação na Fatec onde ja trabalhei em vários trabalhos que envolviam Python, C, Java, Javascript entre outras linguagens e tecnologias.
-
-## Meus Projetos
-Abaixo estão listados os projetos desenvolvidos durante minha graduação na Fatec São José dos Campos, foram desenvolvidos um projeto por semestre.
+- [Github](https://github.com/levizoca/PI-JornadaDeMotoristas) <br>
