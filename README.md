@@ -3,7 +3,7 @@
 ### Em 2020-1
 No meu primeiro semestre na Fatec, foi passado o PI (Projeto Integrador) onde a própria Fatec atuaria como uma empresa que apresentaria um problema e minha equipe deveria achar uma solução e trabalhar para desenvolvê-lo. Neste primeiro trabalho, minha equipe desenvolveu um aplicativo para dispositivos móveis que monitoraria a temperatura de uma sala a partir de um termômetro que estaria trabalhando junto a um NodeMCU, e a partir disso, o portador do aplicativo seria notificado sempre que mudanças ocorressem naquela sala, podendo sempre monitorar a temperatura e umidade do local.
 
-- [GIT](https://github.com/levizoca/hexagono-fatec) <br>
+- [Github](https://github.com/levizoca/hexagono-fatec) <br>
 - [YouTube](https://www.youtube.com/watch?v=AYty7aQO1_A)
 
 <div align="center">
@@ -58,7 +58,7 @@ Proatividade - exploração dos dados recebidos, teste e validação de hipótes
 Durante esse semestre fui introduzido a varias tecnologias onde as que eu mais utilizei foram o figma, Html, CSS e o javascript. Tais tecnologias eu obtive um conhecimento básico/intermediário para o desenvolvimento do projeto, completando alguns cursos que tornaram o desenvolvimento possível.
 
 ## Contatos
-* [GIT](https://github.com/levizoca)
+* [Github](https://github.com/levizoca)
 * [LinkedIn](https://www.linkedin.com/in/levi-motta-5001a2173/)
 
 
