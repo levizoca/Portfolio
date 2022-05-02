@@ -1,5 +1,5 @@
 # Levi Alberto Motta Santos
-<img src="https://github.com/levizoca/Portfolio/blob/main/Images/avatar.jpg" width="200" hspace="5"/>
+<img src="https://github.com/levizoca/Portfolio/blob/main/Imagens/avatar.jpg" width="200" hspace="5"/>
 
 * [Github](https://github.com/levizoca)
 * [LinkedIn](https://www.linkedin.com/in/levi-motta-5001a2173/)
