@@ -33,5 +33,5 @@ Tive aulas de python no primeiro e terceiro semestre, possuo conhecimento básic
 - Java<br>
 Alem de aulas, tive de pesquisar bastante para suprir as entregas, conhecimento básico/intermediário.
 
--MySQL<br>
+- MySQL<br>
 Tive aulas e também usei em trabalhos, conhecimento básico.
