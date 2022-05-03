@@ -15,16 +15,23 @@ Abaixo estão listados os projetos desenvolvidos durante minha graduação na Fa
 
 * [TempVerify - 1º Semestre](https://github.com/levizoca/Portfolio/tree/2020-01)
 
-* [IACIT Transporte - 2º Semestre](https://github.com/levizoca/Portfolio/tree/2020-02)
+* [IACIT Transportes - 2º Semestre](https://github.com/levizoca/Portfolio/tree/2020-02)
 
 * [Beyond Learning - 3º Semestre](https://github.com/levizoca/Portfolio/tree/2021-01)
 
 ## Principais Conhecimentos
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- C
-- Python
-- Java
+- HTML, CSS e JavaScript<br>
+Utilizei em quase todos os projetos e ja estudei sobre possuo conhecimento básico/intermediário.
+
+- Bootstrap<br>
+Aprendi um pouco sobre, possuo conhecimento básico.
+
+- Python<br>
+Tive aulas de python no primeiro e terceiro semestre, possuo conhecimento básico.
+
+- Java<br>
+Alem de aulas, tive de pesquisar bastante para suprir as entregas, conhecimento básico/intermediário.
+
+-MySQL<br>
+Tive aulas e também usei em trabalhos, conhecimento básico.
