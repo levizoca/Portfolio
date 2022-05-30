@@ -30,7 +30,7 @@ Aprendi um pouco sobre, possuo conhecimento básico.
 - Python<br>
 Tive aulas de python no primeiro e terceiro semestre, possuo conhecimento básico.
 
-- Java<br>
+- Java/SpringBoot<br>
 Alem de aulas, tive de pesquisar bastante para suprir as entregas, conhecimento básico/intermediário.
 
 - MySQL<br>
