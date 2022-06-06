@@ -12,13 +12,17 @@
 </div>
 
 #### Tecnologias Utilizadas
-- Java
-- SpringBoot
-- NodeMCU
+- Java/SpringBoot
+<p align="justify"> Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui algumas características importantes como portabilidade, recursos de rede e segurança. O Spring é um framework open source para a plataforma Java oferecendo diversos módulos que podem ser utilizados de acordo com as necessidades do projeto, como módulos voltados para desenvolvimento Web, persistência, acesso remoto e programação orientada a aspectos. Foi utilizado no Backend do projeto fazendo conexão com o banco de dados, manipulação de dados e redirecionamento de páginas.</p>
+
 - MySQL
-- Figma
+<p align="justify"> O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.</p>
+
 - HTML, CSS e JavaScript
+<p align="justify"> Ferramentas que trabalhamos no Frontend do projeto na criação e estilização das páginas e algumas funções feitas em javascript para melhor visualização.</p>
+
 - Bootstrap
+<p align="justify"> Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript. Também utilizado no Frontend do projeto.</p>
 
 #### Contribuições Pessoais
 <p align="justify">Trabalhei tanto no front-end como no back-end do projeto. No Front usei HTML, CSS, JavaScript e o Bootstrap para a criação das páginas. No back foram utilizadas a linguagem java e o framework Spring onde foram feitas todos os códigos para o funcionamento das funcionalidades do sistema. Também trablahei com o MySQL para manuseio das informações do banco de dados.
