@@ -1,7 +1,7 @@
 ## Em 2021-01
 
 ### Beyond Learning
-<p align="justify">No meu terceiro semestre na Fatec, foi passado o API (Aprendizado por Projetos Integrados) onde a empresa praceira foi a Ness Health. Neste trabalho, minha equipe desenvolveu uma plataforma web voltada ao ensino á distância para a gestão e oferta de conhecimento, dando suporte ás mais diversas arquiteturas de aprendizagem, alinhado com os objetivos estratégicos a serem alcançados por cada organização que atendemos como clientes. A plataforma web aceita a publicação de arquivos scorm, mp4, mp3, pdf, jpeg e png. Seu layout é de fácil personalização , possuindo templates pré definidos, trazendo autonomia para gestão da plataforma. </p>
+<p align="justify">No meu terceiro semestre na Fatec, foi passado o API (Aprendizado por Projetos Integrados) onde a empresa parceira foi a Ness Health. Neste trabalho, minha equipe desenvolveu uma plataforma web voltada ao ensino á distância para a gestão e oferta de conhecimento, dando suporte ás mais diversas arquiteturas de aprendizagem, alinhado com os objetivos estratégicos a serem alcançados por cada organização que atendemos como clientes. A plataforma web aceita a publicação de arquivos scorm, mp4, mp3, pdf, jpeg e png. Seu layout é de fácil personalização , possuindo templates pré definidos, trazendo autonomia para gestão da plataforma. </p>
 
 - [Github](https://github.com/levizoca/Beyond-Learning) <br>
 
