@@ -20,10 +20,14 @@ Abaixo estão listados os projetos desenvolvidos durante minha graduação na Fa
 
 * [Beyond Learning - 3º Semestre](https://github.com/levizoca/Portfolio/tree/2021-01)
 
+* [Ionic Health Project - 4º semestre](https://github.com/levizoca/Portfolio/tree/2021-02-1)
+
+* [Sirius - 4º semestre](https://github.com/levizoca/Portfolio/tree/2021-02-2)
+
 ## Principais Conhecimentos
 
 - HTML, CSS e JavaScript<br>
-Utilizei em quase todos os projetos e ja estudei sobre possuo conhecimento básico/intermediário.
+Utilizei em quase todos os projetos e ja estudei sobre, possuo conhecimento básico/intermediário.
 
 - Bootstrap<br>
 Aprendi um pouco sobre, possuo conhecimento básico.
