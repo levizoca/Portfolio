@@ -15,10 +15,10 @@
 
 #### Tecnologias Utilizadas
 - Java
-<p align="justify"> Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui algumas características importantes como portabilidade, recursos de rede e segurança.</p>
+<p align="justify"> Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui algumas características importantes como portabilidade, recursos de rede e segurança. Foi utilizado no Backend do projeto fazendo conexão com o banco de dados, manipulação de dados e redirecionamento de páginas.</p>
 
 - NodeJS
-<p align="justify"> Node.js é um software de código aberto, multiplataforma que permite a execução de códigos JavaScript fora de um navegador web.</p>
+<p align="justify"> Node.js é um software de código aberto, multiplataforma que permite a execução de códigos JavaScript fora de um navegador web. Foi usado para a estilização das páginas no Frontend.</p>
 
 - MySQL 
 <p align="justify"> O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.</p>
