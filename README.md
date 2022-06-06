@@ -1,49 +1,42 @@
-## Em 2021-01
+## Em 2022-01
 
-### Beyond Learning
-<p align="justify">No meu terceiro semestre na Fatec, foi passado o API (Aprendizado por Projetos Integrados) onde a empresa praceira foi a Ness Health. Neste trabalho, minha equipe desenvolveu uma plataforma web voltada ao ensino á distância para a gestão e oferta de conhecimento, dando suporte ás mais diversas arquiteturas de aprendizagem, alinhado com os objetivos estratégicos a serem alcançados por cada organização que atendemos como clientes. A plataforma web aceita a publicação de arquivos scorm, mp4, mp3, pdf, jpeg e png. Seu layout é de fácil personalização , possuindo templates pré definidos, trazendo autonomia para gestão da plataforma. </p>
+### FolConn
+<p align="justify">No quinto semestre a empresa parceira do API foi a Embraer novamente, só que com uma proposta diferente. Desta vez, eles queriam um aplicativo mobile que pudesse ajudar os clientes a se informarem de atualizações sobre as Fols (arquivos em pdf referentes a problemas ou modificações nos autommóveis). Também desejavam um aplicação web para gerenciar os dados e informações dos seus clientes. Ao final do projeto, a aplicação web conseguia receber notificações, visualizar novas Fols e possuia um sistema de pesuisa de arquivos com diferentes filtros de busca. A aplicação web recebia </p>
 
-- [Github](https://github.com/levizoca/Beyond-Learning) <br>
+- [Github](https://github.com/barbaraport/api-claradb) <br>
 
 <div align="center">
-  <img src="https://github.com/levizoca/Portfolio/blob/2021-01/Imagens/Index.gif" width="500" hspace="5"/>
-  <img src="https://github.com/levizoca/Portfolio/blob/2021-01/Imagens/Auto Registro.gif" width="500" hspace="5"/>
-  <img src="https://github.com/levizoca/Portfolio/blob/2021-01/Imagens/Upload de Arquivos.gif" width="500" hspace="5"/><br>
+  <img src="https://github.com/levizoca/Portfolio/blob/2022-01/Imagens/Sprint 3.gif" width="250" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2022-01/Imagens/Sprint2-Web.gif" width="500" hspace="5"/><br>
 </div>
 
 #### Tecnologias Utilizadas
-- Java
-<p align="justify"> Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui algumas características importantes como portabilidade, recursos de rede e segurança. Foi utilizado no Backend do projeto fazendo conexão com o banco de dados, manipulação de dados e redirecionamento de páginas.</p>
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="justify"> Python foi utilizado no backend do projeto para gerenciamento do servidor web e manuseio do banco de dados.</p><br>
 
-- SpringBoot
-<p align="justify">O Spring é um framework open source para a plataforma Java oferecendo diversos módulos que podem ser utilizados de acordo com as necessidades do projeto, como módulos voltados para desenvolvimento Web, persistência, acesso remoto e programação orientada a aspectos. Também utilizado no Backend do projeto em conjunto com Java.</p>
+- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<p align="justify"> Flask é um microframework web  e foi utilizado juntamente ao python para desenvolvimento do backend.</p><br>
 
-- MySQL
-<p align="justify"> O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.</p>
+- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p align="justify"> MongoDB é um software de banco de dados orientado a documentos livre classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas.</p><br>
 
-- HTML, CSS e JavaScript
-<p align="justify"> Ferramentas que trabalhei no Frontend do projeto na criação e estilização das páginas e algumas funções feitas em javascript para melhor visualização.</p>
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<p align="justify"> É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Foi utilizado no frontend.</p><br>
 
-- Bootstrap
-<p align="justify"> Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript. Também utilizado no Frontend do projeto.</p>
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<p align="justify"> React Native é uma biblioteca Javascript usada para desenvolver aplicativos para os sistemas Android e iOS de forma nativa.</p><br>
 
 #### Contribuições Pessoais
-<p align="justify">Trabalhei tanto no front-end como no back-end do projeto. No Front usei HTML, CSS, JavaScript e o Bootstrap para a criação das páginas. No back foram utilizadas a linguagem java e o framework Spring onde foram feitas todos os códigos para o funcionamento das funcionalidades do sistema. Também trablahei com o MySQL para manuseio das informações do banco de dados.
+<p align="justify"> Trabalhei no frontend do projeto participando da criação dos mockups utilizando figma e a partir disso desenvolver componentes para a criação das templates do aplicativo mobile utilizando React Native.
 </p>
   
 #### Hard Skills
-Html, css e javascript - tenho conhecimento intermediário das tecnologias e aperfeiçõei-as durante o desenvolvimento.
-
-Java e SpingBoot - aprendi tais tecnologias e utilizei bastante para o desenvolvimento do back
-
-MySQL - aprendi o básico para o funcionamento do sistema
+React Native - aprendi sobre para poder desenvolver o front do projeto.
 
 #### Soft Skills
 Colaboração - empatia e capacidade de adaptação as tarefas de cada integrante da equipe foram essenciais.
 
 Comunicação - indispensável para o desenvolvimento e aperfeiçoamento do projeto.
-
-Proatividade - exploração dos dados recebidos, teste e validação de hipóteses.
 
 ## Contatos
 * [Github](https://github.com/levizoca)
