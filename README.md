@@ -1,14 +1,14 @@
-## Em 2021-01
+## Em 2021-02
 
-### Beyond Learning
-<p align="justify">No meu terceiro semestre na Fatec, foi passado o API (Aprendizado por Projetos Integrados) onde a empresa praceira foi a Ness Health. Neste trabalho, minha equipe desenvolveu uma plataforma web voltada ao ensino á distância para a gestão e oferta de conhecimento, dando suporte ás mais diversas arquiteturas de aprendizagem, alinhado com os objetivos estratégicos a serem alcançados por cada organização que atendemos como clientes. A plataforma web aceita a publicação de arquivos scorm, mp4, mp3, pdf, jpeg e png. Seu layout é de fácil personalização , possuindo templates pré definidos, trazendo autonomia para gestão da plataforma. </p>
+### Ionic Health Project
+<p align="justify">No meu quarto semestre na Fatec, foi passado no API (Aprendizado por Projetos Integrados) a busca por um CRM de fácil visualização que armazene informações de clientes atuais/potenciais e entregue relatórios para a empresa cliente que no caso era a Ionic Health. Na entrega final era possível cadastrar usuários por meio de um usuário admin, cadastrar clientes B2B e B2C, criar e atualizar um pipeline de acordo com os usários cadastrados e fazer upload e download de arquivos .docx. </p>
 
-- [Github](https://github.com/levizoca/Beyond-Learning) <br>
+- [Github](https://github.com/levizoca/IONIC-Health-Project) <br>
 
 <div align="center">
-  <img src="https://github.com/levizoca/Portfolio/blob/2021-01/Imagens/Index.gif" width="500" hspace="5"/>
-  <img src="https://github.com/levizoca/Portfolio/blob/2021-01/Imagens/Auto Registro.gif" width="500" hspace="5"/>
-  <img src="https://github.com/levizoca/Portfolio/blob/2021-01/Imagens/Upload de Arquivos.gif" width="500" hspace="5"/><br>
+  <img src="https://github.com/levizoca/Portfolio/blob/2021-02-1/Imagens/gerente.gif" width="500" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2021-02-1/Imagens/vendedor.gif" width="500" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2021-02-1/Imagens/gestor.gif" width="500" hspace="5"/><br>
 </div>
 
 #### Tecnologias Utilizadas
@@ -25,20 +25,24 @@
 <p align="justify"> Ferramentas que trabalhei no Frontend do projeto na criação e estilização das páginas e algumas funções feitas em javascript para melhor visualização.</p>
 
 - Bootstrap
-<p align="justify"> Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript. Também utilizado no Frontend do projeto.</p>
+<p align="justify"> Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript. Também utilizado no Frontend do projeto e na criação do pipeline.</p>
 
 #### Contribuições Pessoais
 <p align="justify">Trabalhei tanto no front-end como no back-end do projeto. No Front usei HTML, CSS, JavaScript e o Bootstrap para a criação das páginas. No back foram utilizadas a linguagem java e o framework Spring onde foram feitas todos os códigos para o funcionamento das funcionalidades do sistema. Também trablahei com o MySQL para manuseio das informações do banco de dados.
 </p>
   
 #### Hard Skills
-Html, css e javascript - tenho conhecimento intermediário das tecnologias e aperfeiçõei-as durante o desenvolvimento.
+Html, Css e Bootstrap - aperfeiçoei meus conhecimentos durante o desenvolvimento do frontend do projeto.
 
-Java e SpingBoot - aprendi tais tecnologias e utilizei bastante para o desenvolvimento do back
+JavaScript - aprendi o basico e estudei por fora para criar algumas funções presentes no CRM.
 
-MySQL - aprendi o básico para o funcionamento do sistema
+Java e SpringBoot - usei bastante essas duas tecnologias no backend inteiro do projeto.
+
+MySQL - usei basicamente para o gerenciamento do banco de dados.
 
 #### Soft Skills
+Liderança - como parte da equipe de desenvolvimento, liderei as principais mudanças e decisões no projeto.
+
 Colaboração - empatia e capacidade de adaptação as tarefas de cada integrante da equipe foram essenciais.
 
 Comunicação - indispensável para o desenvolvimento e aperfeiçoamento do projeto.
