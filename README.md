@@ -6,10 +6,10 @@
 - [Github](https://github.com/levizoca/Sirius) <br>
 
 <div align="center">
-  <img src="https://github.com/levizoca/Portfolio/blob/2021-01/Imagens/Upload e Download.gif" width="500" hspace="5"/>
-  <img src="https://github.com/levizoca/Portfolio/blob/2021-01/Imagens/Novo-doc.-de-um-existente.gif" width="500" hspace="5"/>
-  <img src="https://github.com/levizoca/Portfolio/blob/2021-01/Imagens/Download-com-Rev.-do-Bloco.gif" width="500" hspace="5"/><br>
-  <img src="https://github.com/levizoca/Portfolio/blob/2021-01/Imagens/Doc.-FULL-com-variação-de-Rev..gif" width="500" hspace="5"/><br>
+  <img src="https://github.com/levizoca/Portfolio/blob/2021-02-2/Imagens/Upload e Download.gif" width="500" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2021-02-2/Imagens/Novo-doc.-de-um-existente.gif" width="500" hspace="5"/><br>
+  <img src="https://github.com/levizoca/Portfolio/blob/2021-02-2/Imagens/Download-com-Rev.-do-Bloco.gif" width="500" hspace="5"/>
+  <img src="https://github.com/levizoca/Portfolio/blob/2021-02-2/Imagens/Doc.-FULL-com-variação-de-Rev..gif" width="500" hspace="5"/><br>
 </div>
 
 #### Tecnologias Utilizadas
@@ -32,7 +32,7 @@
 #### Hard Skills
 Html, Css e JavaScript - tenho conhecimento intermediário das tecnologias e aperfeiçõei-as durante o desenvolvimento.
 
-Java e SpringBoot - aperfeiçoei minahs habilidades e utilizei bastante para o desenvolvimento do back.
+Java e SpringBoot - aperfeiçoei minhas habilidades e utilizei bastante para o desenvolvimento do back.
 
 PostgreSQL - aprendi o básico para o funcionamento do sistema.
 
