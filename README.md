@@ -18,10 +18,10 @@
 
 #### Tecnologias Utilizadas
 - <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<p align="justify"> O Firebase é uma ferramenta de banco de dados não relacional que pode ser acessada na nuvem, é suportada pelas principais plataformas móveis como Android e iOS (ideal para este projeto), permite desenvolvimento em qualquer dispositivo, além de ser uma plataforma gratuita.</p>
+<p align="justify"> O Firebase é uma ferramenta de banco de dados não relacional que pode ser acessada na nuvem, é suportada pelas principais plataformas móveis como Android e iOS (ideal para este projeto), permite desenvolvimento em qualquer dispositivo, além de ser uma plataforma gratuita.</p><br>
 
 - <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<p align="justify"> O Flutter, criado pela Google, é um framework que se utiliza da linguagem Dart e possui código aberto. As aplicações geradas com o Flutter conseguem acessar os recursos do dispositivo que estão sendo executadas com maior eficiência, sem ajuda de terceiros como bridges, tal funcionalidade levou o Flutter a se popularizar no cenário mobile.</p>
+<p align="justify"> O Flutter, criado pela Google, é um framework que se utiliza da linguagem Dart e possui código aberto. As aplicações geradas com o Flutter conseguem acessar os recursos do dispositivo que estão sendo executadas com maior eficiência, sem ajuda de terceiros como bridges, tal funcionalidade levou o Flutter a se popularizar no cenário mobile.</p><br>
 
 - <img src="https://img.shields.io/badge/Node--MCU-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
 <p align="justify"> Quanto ao hardware, foi optado pela placa NodeMCU, muito utilizado na área de IoT principalmente em projetos menores que utilizam o chip ESP32, que permite conexão Wi-Fi com microcontroladores através de um SoC com o protocolo TCP/IP.
@@ -32,9 +32,9 @@ Regulador de Tensão<br>
 Pinos para I2C<br>
 SPI<br>
 Analógico
-
+<br><br>
 - <img src="https://img.shields.io/badge/OneSignal-212121?style=for-the-badge&logo=drone&logoColor=white"/>
-<p align="justify"> O OneSignal é uma ferramenta web que oferece o envio de notificações push para dispositivos das principais plataformas atuais: Android e iOS. É um serviço inicialmente gratuito, mas que se o usuário precisar de mais algumas funcionalidades será necessário pagamento. As notificações podem ser enviadas somente a um segmento de usuários ou a todos. Também é possível programar o horário que a notificação será enviada (instantaneamente ou daqui a algumas horas, por exemplo). Há outras configurações, como ícones, imagens e prioridade. Além disso o OneSignal envia notificações e as exibe em três estados: com o app totalmente fechado, com o app minimizado e com o app aberto.</p>
+<p align="justify"> O OneSignal é uma ferramenta web que oferece o envio de notificações push para dispositivos das principais plataformas atuais: Android e iOS. É um serviço inicialmente gratuito, mas que se o usuário precisar de mais algumas funcionalidades será necessário pagamento. As notificações podem ser enviadas somente a um segmento de usuários ou a todos. Também é possível programar o horário que a notificação será enviada (instantaneamente ou daqui a algumas horas, por exemplo). Há outras configurações, como ícones, imagens e prioridade. Além disso o OneSignal envia notificações e as exibe em três estados: com o app totalmente fechado, com o app minimizado e com o app aberto.</p><br>
   
 
 #### Contribuições Pessoais
