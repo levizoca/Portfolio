@@ -3,6 +3,7 @@
 
 * [Github](https://github.com/levizoca)
 * [LinkedIn](https://www.linkedin.com/in/levi-motta-5001a2173/)
+* E-mail: levi.motta@hotmail.com
 
 ## Introdução
 <p align="justify">Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Meu interesse por tecnologia vem desde a infância onde jogava videogame e ja mexia em computadores, com o passar do tempo comecei a mexer com hardware, montando meus proprios computadores e praticando manutenção. Após terminar o ensino médio, visando construir uma carreira em tal área, comecei os estudos na parte de programação na Fatec onde ja trabalhei em vários trabalhos que envolviam Python, C, Java, Javascript entre outras linguagens e tecnologias.
