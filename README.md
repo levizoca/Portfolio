@@ -12,7 +12,7 @@ Estudei no Colégio Santa Ângela em Paraisópolis durante o 1º ano do Fundamen
 </p>
 
 ## Meus Projetos
-Abaixo estão listados os projetos desenvolvidos durante minha graduação na Fatec São José dos Campos, foram desenvolvidos um projeto por semestre.
+Abaixo estão listados os projetos desenvolvidos durante minha graduação na Fatec São José dos Campos.
 
 * [TempVerify - 1º Semestre](https://github.com/levizoca/Portfolio/tree/2020-01)
 
