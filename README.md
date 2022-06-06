@@ -12,14 +12,17 @@
 </div>
 
 #### Tecnologias Utilizadas
-- Java/SpringBoot
-<p align="justify"> Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui algumas características importantes como portabilidade, recursos de rede e segurança. O Spring é um framework open source para a plataforma Java oferecendo diversos módulos que podem ser utilizados de acordo com as necessidades do projeto, como módulos voltados para desenvolvimento Web, persistência, acesso remoto e programação orientada a aspectos. Foi utilizado no Backend do projeto fazendo conexão com o banco de dados, manipulação de dados e redirecionamento de páginas.</p>
+- Java
+<p align="justify"> Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui algumas características importantes como portabilidade, recursos de rede e segurança. Foi utilizado no Backend do projeto fazendo conexão com o banco de dados, manipulação de dados e redirecionamento de páginas.</p>
+
+- SpringBoot
+<p align="justify">O Spring é um framework open source para a plataforma Java oferecendo diversos módulos que podem ser utilizados de acordo com as necessidades do projeto, como módulos voltados para desenvolvimento Web, persistência, acesso remoto e programação orientada a aspectos. Também utilizado no Backend do projeto em conjunto com Java.</p>
 
 - MySQL
 <p align="justify"> O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.</p>
 
 - HTML, CSS e JavaScript
-<p align="justify"> Ferramentas que trabalhamos no Frontend do projeto na criação e estilização das páginas e algumas funções feitas em javascript para melhor visualização.</p>
+<p align="justify"> Ferramentas que trabalhei no Frontend do projeto na criação e estilização das páginas e algumas funções feitas em javascript para melhor visualização.</p>
 
 - Bootstrap
 <p align="justify"> Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript. Também utilizado no Frontend do projeto.</p>
