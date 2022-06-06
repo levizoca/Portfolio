@@ -14,17 +14,17 @@
 </div>
 
 #### Tecnologias Utilizadas
-- Java
-<p align="justify"> Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui algumas características importantes como portabilidade, recursos de rede e segurança. Foi utilizado no Backend do projeto fazendo conexão com o banco de dados, manipulação de dados e redirecionamento de páginas.</p>
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<p align="justify"> Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui algumas características importantes como portabilidade, recursos de rede e segurança. Foi utilizado no Backend do projeto fazendo conexão com o banco de dados, manipulação de dados e redirecionamento de páginas.</p><br>
 
-- NodeJS
-<p align="justify"> Node.js é um software de código aberto, multiplataforma que permite a execução de códigos JavaScript fora de um navegador web. Foi usado para a estilização das páginas no Frontend.</p>
+- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<p align="justify"> Node.js é um software de código aberto, multiplataforma que permite a execução de códigos JavaScript fora de um navegador web. Foi usado para a estilização das páginas no Frontend.</p><br>
 
-- MySQL 
-<p align="justify"> O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.</p>
+- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="justify"> O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.</p><br>
 
-- Insomnia
-<p align="justify"> Insomnia é uma ferramenta cliente de API REST, como o Postman, mas tem alguns recursos adicionais, como suporte a GraphQL, gRPC, entre outros.</p>
+- <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+<p align="justify"> Insomnia é uma ferramenta cliente de API REST, como o Postman, mas tem alguns recursos adicionais, como suporte a GraphQL, gRPC, entre outros.</p><br>
 
 #### Contribuições Pessoais
 <p align="justify">Trabalhei basicamente com o front-end do projeto. As primeiras ideias foram aplicadas e desenvolvidas no figma, a partir disso, minhas habilidades foram aplicadas nas telas do sistema onde usei HTML, CSS e JavaScript para criá-las. 
