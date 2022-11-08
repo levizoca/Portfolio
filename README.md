@@ -34,7 +34,7 @@ React Native - aprendi um pouco sobre para poder implementar novas funcionalidad
 #### Soft Skills
 Colaboração - empatia e capacidade de adaptação as tarefas de cada integrante da equipe foram essenciais.
 
-Comunicação - indispensável para a idealização dos objetivos e soluções para o projeto.
+Comunicação - indispensável para a idealização dos objetivos e soluções para o projeto, presente nas reuniões e nas conversas.
 
 Trabalho em equipe- essencial para a separação das tarefas e desenvolvimento em geral.
 
