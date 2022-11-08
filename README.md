@@ -26,6 +26,8 @@ Abaixo estão listados os projetos desenvolvidos durante minha graduação na Fa
 
 * [FolConn - 5º semestre](https://github.com/levizoca/Portfolio/tree/2022-01)
 
+* [AgroGhosts - 6º semestre](https://github.com/levizoca/Portfolio/tree/2022-02)
+
 ## Principais Conhecimentos
 
 - Java/SpringBoot<br>
