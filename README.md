@@ -2,13 +2,12 @@
 ## Em 2022-02
 
 ### AgroGhosts
-<p align="justify">No sexto semestre a empresa parceira do API foi a Visiona um empreendimento conjunto entre a Embraer Defesa & Segurança e a Telebras, voltada para a integração de sistemas espaciais. Foi definido por eles que deveríamos implementar as funcionalidades criadas de um projeto feito por outra equipe. O problema apresentado foi de que agricultores precisavam de dados estatísticos sobre o plantio de soja, contudo era necessario o preenchimento manual dos dados. A solução proposta era da criação de uma AI que fizesse a contagem de vagens e grãos de soja a a partir de uma foto.</p>
+<p align="justify">No sexto semestre a empresa parceira do API foi a Visiona, um empreendimento conjunto entre a Embraer Defesa & Segurança e a Telebras, voltada para a integração de sistemas espaciais. Foi definido por eles que deveríamos implementar as funcionalidades criadas de um projeto feito por outra equipe. O problema apresentado foi de que agricultores precisavam de dados estatísticos sobre o plantio de soja, contudo era necessario o preenchimento manual dos dados. A solução proposta era da criação de uma AI que fizesse a contagem de vagens e grãos de soja a a partir de uma foto.</p>
 
 - [Github](https://github.com/Agroghosts/eSoja#readme) <br>
 
 <div align="center">
-  <img src="https://github.com/levizoca/Portfolio/blob/2022-01/Imagens/Sprint 3.gif" width="250" hspace="5"/>
-  <img src="https://github.com/levizoca/Portfolio/blob/2022-01/Imagens/Sprint2-Web.gif" width="500" hspace="5"/><br>
+  <img src="https://github.com/levizoca/Portfolio/blob/2022-02/Imagens/amostra.png" width="250" hspace="5"/>
 </div>
 
 #### Tecnologias Utilizadas
