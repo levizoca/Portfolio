@@ -1,7 +1,7 @@
 ## Em 2021-02
 
 ### Sirius
-<p align="justify">No quarto semestre também foi passado outro API, só que dessa vez com a empresa Embraer com a proposta de aprimorar a criação da documentação das aeronaves. A empresa parceira solicitou a criação de uma aplicação que, aprimorasse sua antiga forma manual de desenvolvimento, com uma maneira mais eficaz, segura e simples. Ao final do processo o projeto tinha autenticação de usuários, upload e download de arquivos, visualização de documentos e do codelist, visualização de revisões DELTA e FULL com a LEP  </p>
+<p align="justify">No quarto semestre também foi passado outro API, só que dessa vez com a Embraer, empresa fundada em 1969 fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços de suporte na área e com sede em São José dos Campos. com a proposta de aprimorar a criação da documentação das aeronaves. A empresa parceira solicitou a criação de uma aplicação que, aprimorasse sua antiga forma manual de desenvolvimento, com uma maneira mais eficaz, segura e simples. Ao final do processo o projeto tinha autenticação de usuários, upload e download de arquivos, visualização de documentos e do codelist, visualização de revisões DELTA e FULL com a LEP  </p>
 
 - [Github](https://github.com/levizoca/Sirius) <br>
 
