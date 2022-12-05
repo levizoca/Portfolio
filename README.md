@@ -1,7 +1,7 @@
 ## Em 2021-02
 
 ### Ionic Health Project
-<p align="justify">No meu quarto semestre na Fatec, foi passado no API (Aprendizado por Projetos Integrados) a busca por um CRM de fácil visualização que armazene informações de clientes atuais/potenciais e entregue relatórios para a empresa cliente que no caso era a Ionic Health. Na entrega final era possível cadastrar usuários por meio de um usuário admin, cadastrar clientes B2B e B2C, criar e atualizar um pipeline de acordo com os usários cadastrados e fazer upload e download de arquivos .docx. </p>
+<p align="justify">No meu quarto semestre na Fatec, foi passado no API (Aprendizado por Projetos Integrados) a busca por um CRM de fácil visualização que armazene informações de clientes atuais/potenciais e entregue relatórios para a empresa cliente que no caso era a Ionic Health, derivada da Ness Health foi rebatizada em 2020 para Ionic Health. Na entrega final era possível cadastrar usuários por meio de um usuário admin, cadastrar clientes B2B e B2C, criar e atualizar um pipeline de acordo com os usários cadastrados e fazer upload e download de arquivos .docx. </p>
 
 - [Github](https://github.com/levizoca/IONIC-Health-Project) <br>
 
