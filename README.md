@@ -31,28 +31,37 @@ Abaixo estão listados os projetos desenvolvidos durante minha graduação na Fa
 ## Principais Conhecimentos
 
 - Java/SpringBoot<br>
-Além de aulas, tive de pesquisar bastante para suprir as entregas, possuo conhecimento intermediário.
+Tive matérias durante o 2º, 3º e 6º semestre e desenvolvi projetos que utilizavam Java com SpringBoot, possuo conhecimento intermediário.
 
-- Python<br>
-Tive aulas de python no 1º e 3º semestre além de usar em análise de dados, possuo conhecimento básico/intermediário.
+- Python/Flask<br>
+Tive matérias onde estudei python no 1º e 3º semestre além de usar em análise de dados, possuo conhecimento intermediário.
 
-- C<br>
-Aprendi em aulas durante o 2º semestre, possuo conhecimento básico.
-
-- JavaScript<br>
+- JavaScript/TypeScript<br>
 Utilizei em alguns projetos e estudei em cursos, possuo conhecimento intermediário.
+
+- Node/NestJS<br>
+Utilizei em alguns projetos e estudei em cursos, possuo conhecimento intermediário.
+
+- React/ReactNative<br>
+Utilizei em alguns projetos e estudei em cursos, possuo conhecimento básico.
 
 - PHP<br>
 Fiz um curso sobre e utilizei em trabalhos durante o 3º semestre, possuo conhecimento básico.
 
+- C<br>
+Aprendi em aulas durante o 2º semestre, possuo conhecimento básico.
+
 - HTML e CSS<br>
-Utilizei em quase todos os projetos e ja estudei sobre, possuo conhecimento básico/intermediário.
+Utilizei em quase todos os projetos e ja estudei sobre, possuo conhecimento intermediário.
 
 - Bootstrap<br>
 Aprendi um pouco sobre, possuo conhecimento básico.
 
-- MySQL<br>
-Tive aulas e também usei em trabalhos, conhecimento básico.
+- MySQL/PostgreSQL<br>
+Tive aulas e também usei em trabalhos, possuo conhecimento intermediário.
 
 - MongoDB<br>
-Fiz dois cursos durante o 5º semestre, conhecimento básico.
+Fiz dois cursos durante o 5º semestre, possuo conhecimento básico.
+
+- Docker<br>
+Estudei sobre docker durante o 5º semestre e utilizei em projetos, possuo conhecimento básico.
