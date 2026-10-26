@@ -6,7 +6,7 @@
 * E-mail: levi.motta@hotmail.com
 
 ## Introdução
-<p align="justify">Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Meu interesse por tecnologia vem desde a infância onde jogava videogame e ja mexia em computadores, com o passar do tempo comecei a mexer com hardware, montando meus proprios computadores e praticando manutenção. Após terminar o ensino médio, visando construir uma carreira em tal área, comecei os estudos na parte de programação na Fatec onde ja trabalhei em vários trabalhos que envolviam Python, C, Java, Javascript entre outras linguagens e tecnologias.
+<p align="justify">Sou formado em Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Meu interesse por tecnologia vem desde a infância onde jogava videogame e ja mexia em computadores, com o passar do tempo comecei a mexer com hardware, montando meus proprios computadores e praticando manutenção. Após terminar o ensino médio, visando construir uma carreira em tal área, comecei os estudos na parte de programação na Fatec onde trabalhei em diversos projetos que envolveram Python, C, Java, Javascript entre outras linguagens e tecnologias.
   
 Estudei no Colégio Santa Ângela em Paraisópolis durante o 1º ano do Fundamental até o 3º ano do Ensio Médio. Em 2019, durante meu último ano no Ensino Médio, tive meu primeiro contato com programação com o canal Curso em vídeo no youtube onde comecei meu primeiro curso de JavaScript. Em 2020 tive bastante contato com várias linguagens diferentes na faculdade, desde python até java, e assim continuo aprimorando minhas habilidades até hoje.
 </p>
@@ -18,15 +18,15 @@ Abaixo estão listados os projetos desenvolvidos durante minha graduação na Fa
 
 * [IACIT Transportes - 2º Semestre](https://github.com/levizoca/Portfolio/tree/2020-02)
 
-* [Beyond Learning - 3º Semestre](https://github.com/levizoca/Portfolio/tree/2021-01)
+* [Beyond Learning Nesse Health- 3º Semestre](https://github.com/levizoca/Portfolio/tree/2021-01)
 
 * [Ionic Health Project - 4º semestre](https://github.com/levizoca/Portfolio/tree/2021-02-1)
 
-* [Sirius - 4º semestre](https://github.com/levizoca/Portfolio/tree/2021-02-2)
+* [Sirius Embraer - 4º semestre](https://github.com/levizoca/Portfolio/tree/2021-02-2)
 
-* [FolConn - 5º semestre](https://github.com/levizoca/Portfolio/tree/2022-01)
+* [FolConn Embraer - 5º semestre](https://github.com/levizoca/Portfolio/tree/2022-01)
 
-* [AgroGhosts - 6º semestre](https://github.com/levizoca/Portfolio/tree/2022-02)
+* [AgroGhosts Visiona - 6º semestre](https://github.com/levizoca/Portfolio/tree/2022-02)
 
 ## Principais Conhecimentos
 
